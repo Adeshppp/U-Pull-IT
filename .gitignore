@@ -1,0 +1,16 @@
+# Java / Spring Boot
+upullit-api/target/
+*.class
+*.jar
+*.war
+*.iml
+/.idea
+
+# Angular
+upullit-ui/node_modules/
+upullit-ui/dist/
+upullit-ui/.angular
+
+# Common
+.DS_Store
+.env
